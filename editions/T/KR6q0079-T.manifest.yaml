@@ -19,7 +19,7 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6q0079_000-T.yaml, hash: 'sha256:6e21abda9319f63d6cd42a6a779bb8156756e0889976a10d5de4145626c987b2'}
+  - {seq: 0, filename: KR6q0079_000-T.yaml, hash: 'sha256:258d8abcbf4054b97bac36f56800e4cf73ec1fcafb46370dd63f7e696852ea63'}
   - {seq: 1, filename: KR6q0079_001-T.yaml, hash: 'sha256:d943db4ce9f657e3b4a16063616369c649b6c2c11cefcf0403e90b45caf97e2a'}
   - {seq: 2, filename: KR6q0079_002-T.yaml, hash: 'sha256:111a782ee3faae878e44dd143b6b60289e0d2182ed618a1069e69a10f449dbf5'}
   - {seq: 3, filename: KR6q0079_003-T.yaml, hash: 'sha256:b6b68a02b164a2d918a5295d7a6396f820c5096f63b057ed2c95f86484f2af4e'}
@@ -27,7 +27,7 @@ assets:
   - {seq: 5, filename: KR6q0079_005-T.yaml, hash: 'sha256:e3f92628192ad928993ba2f561b8b2e6398175d65355aa0c0d01b81edabc1ffe'}
   - {seq: 6, filename: KR6q0079_006-T.yaml, hash: 'sha256:6d43fb08ce995180f00ed6d76bec65fb1736f70d90df7e231577f9926f237189'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0079_000-T.markers.yaml, hash: 'sha256:a9cf32c709062d7c712016924bba4c18d117468b57fba5701a7a2c2775e5eefe'}
+  - {seq: 0, role: markers, filename: assets/KR6q0079_000-T.markers.yaml, hash: 'sha256:76204cc8ff687902495a68cc67bc690a089e002912c77e011938d85cc58b4757'}
   - {seq: 1, role: markers, filename: assets/KR6q0079_001-T.markers.yaml, hash: 'sha256:9bfa2f2223577d9bf49ea20707ebfdcbb85d7d3876d82884a03925f566612a1f'}
   - {seq: 2, role: markers, filename: assets/KR6q0079_002-T.markers.yaml, hash: 'sha256:7a39ef911ba8f8e0f238c11131ae43acd78686f10dc6e09b56f498c78e70ea40'}
   - {seq: 3, role: markers, filename: assets/KR6q0079_003-T.markers.yaml, hash: 'sha256:7432c218e9e8672864424bf8c7b47a4039df51cc2a952ac8c583c5a06f08a1f4'}
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0079_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 從容錄重刻四家語錄序
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0079_T_000-mulu-2
     span:
-    - front
+    - body
     - 188
     - 188
   label: 重刻四家評唱序
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0079_T_000-mulu-3
     span:
-    - front
+    - body
     - 422
     - 422
   label: 萬松老人評唱天童覺和尚頌古從容庵錄序
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0079_T_000-mulu-4
     span:
-    - front
+    - body
     - 1147
     - 1147
   label: 評唱天童從容庵錄寄湛然居士書
@@ -79,7 +79,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0079_T_000-mulu-5
     span:
-    - front
+    - body
     - 1465
     - 1465
   label: 從容庵錄目錄
@@ -1157,4 +1157,4 @@ table_of_contents:
   label: 100 瑯琊山河
   type: mulu
   level: 1
-hash: sha256:2332328eecc6e3a3e3a0e6a72e5fd65265e990328df15f15087cbb02f102d696
+hash: sha256:b38a5ff86069151066450a0f43f7fbe3998211b42b1aa9964f6951509eae093f
